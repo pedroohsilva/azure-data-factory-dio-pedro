@@ -26,9 +26,11 @@ Siga as etapas abaixo para criar o seu recurso Azure Data Factory:
 ### Passo 2 - Criação do Recurso
 
 1. No menu à esquerda, clique em **"Criar um recurso"**.
+
 ![image](https://github.com/user-attachments/assets/c617b205-1256-4f48-8e85-e21f059bbde4)
 ---
 3. Pesquise por **"Data Factory"** e selecione o recurso.
+
   ![image](https://github.com/user-attachments/assets/bd503e5f-495a-45b3-983e-e17425db4291)
 ---
 4. Clique no botão **"Criar"**.
