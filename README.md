@@ -27,24 +27,28 @@ Siga as etapas abaixo para criar o seu recurso Azure Data Factory:
 
 1. No menu à esquerda, clique em **"Criar um recurso"**.
 ![image](https://github.com/user-attachments/assets/c617b205-1256-4f48-8e85-e21f059bbde4)
-2. Pesquise por **"Data Factory"** e selecione o recurso.
-3. Clique no botão **"Criar"**.
+---
+3. Pesquise por **"Data Factory"** e selecione o recurso.
+  ![image](https://github.com/user-attachments/assets/bd503e5f-495a-45b3-983e-e17425db4291)
+---
+4. Clique no botão **"Criar"**.
 
-![image](https://github.com/user-attachments/assets/5213b36c-3316-4739-80bb-3799f1d470d2)
-
+![image](https://github.com/user-attachments/assets/4b7350d7-19b0-4107-b473-0f4b8595b91c)
+---
 ### Passo 3 - Configuração do Recurso
 
 Preencha os seguintes campos:
+
+![image](https://github.com/user-attachments/assets/4695a95d-a42c-4756-b305-5cbdb817bbf1)
+
 - **Assinatura**: Selecione sua assinatura Azure.
 - **Grupo de recursos**: Crie um novo ou selecione um existente.
-- **Nome da instância**: Digite um nome exclusivo para o recurso.
+- **Nome da instância**: Digite um nome exclusivo para o recurso. (Consulte: [Recomendações de abreviações para recursos do Azure](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations))
 - **Região**: Escolha a região mais próxima ou recomendada pela DIO.
 - **Versão**: Escolha **V2**.
 - Clique em **"Avançar"** até chegar em "Revisar + Criar" e, em seguida, clique em **"Criar"**.
 
-![image](https://github.com/user-attachments/assets/4695a95d-a42c-4756-b305-5cbdb817bbf1)
-
-
+---
 ### Passo 4 - Verificando a Criação
 
 Após alguns minutos, verifique se o status da implantação é concluído:
